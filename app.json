@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Wether",
+    "slug": "Wether",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Wether"
+}
