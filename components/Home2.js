@@ -24,7 +24,7 @@ function Home2() {
   }, [2]);
 
   function getApi() {
-    let link = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=68601a3bbb49fd167f1b96b531d795d6`;
+    let link = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=9668601a3bbb49fd167f1b96b531d795d6`;
 
     var config = {
       method: "post",
